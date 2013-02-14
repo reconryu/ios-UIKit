@@ -1,0 +1,416 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		046AF20F12FD5801005952C5 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 046AF20712FD5801005952C5 /* back.png */; };
+		046AF21012FD5801005952C5 /* chara1.png in Resources */ = {isa = PBXBuildFile; fileRef = 046AF20812FD5801005952C5 /* chara1.png */; };
+		046AF21112FD5801005952C5 /* chara2.png in Resources */ = {isa = PBXBuildFile; fileRef = 046AF20912FD5801005952C5 /* chara2.png */; };
+		046AF21212FD5801005952C5 /* circle.png in Resources */ = {isa = PBXBuildFile; fileRef = 046AF20A12FD5801005952C5 /* circle.png */; };
+		046AF21312FD5801005952C5 /* dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 046AF20B12FD5801005952C5 /* dog.jpg */; };
+		046AF21412FD5801005952C5 /* metal.png in Resources */ = {isa = PBXBuildFile; fileRef = 046AF20C12FD5801005952C5 /* metal.png */; };
+		046AF21512FD5801005952C5 /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = 046AF20D12FD5801005952C5 /* star.png */; };
+		046AF21612FD5801005952C5 /* town.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 046AF20E12FD5801005952C5 /* town.jpg */; };
+		046AF24512FD5810005952C5 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF21812FD5810005952C5 /* RootViewController.m */; };
+		046AF24612FD5810005952C5 /* SampleForAnimationCurve.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF21A12FD5810005952C5 /* SampleForAnimationCurve.m */; };
+		046AF24712FD5810005952C5 /* SampleForAnimationMove.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF21C12FD5810005952C5 /* SampleForAnimationMove.m */; };
+		046AF24812FD5810005952C5 /* SampleForAnimationObserving.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF21E12FD5810005952C5 /* SampleForAnimationObserving.m */; };
+		046AF24912FD5810005952C5 /* SampleForAnimationRepeat.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF22012FD5810005952C5 /* SampleForAnimationRepeat.m */; };
+		046AF24A12FD5810005952C5 /* SampleForAnimationTransform.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF22212FD5810005952C5 /* SampleForAnimationTransform.m */; };
+		046AF24B12FD5810005952C5 /* SampleForBaselineAdjustment.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF22412FD5810005952C5 /* SampleForBaselineAdjustment.m */; };
+		046AF24C12FD5810005952C5 /* SampleForBlendMode.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF22612FD5810005952C5 /* SampleForBlendMode.m */; };
+		046AF24D12FD5810005952C5 /* SampleForDrawingStrings.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF22812FD5810005952C5 /* SampleForDrawingStrings.m */; };
+		046AF24E12FD5810005952C5 /* SampleForDrawingStringsInRect.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF22A12FD5810005952C5 /* SampleForDrawingStringsInRect.m */; };
+		046AF24F12FD5810005952C5 /* SampleForFontWithName.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF22C12FD5810005952C5 /* SampleForFontWithName.m */; };
+		046AF25012FD5810005952C5 /* SampleForImageWithCap.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF22E12FD5810005952C5 /* SampleForImageWithCap.m */; };
+		046AF25112FD5810005952C5 /* SampleForLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF23012FD5810005952C5 /* SampleForLabel.m */; };
+		046AF25212FD5810005952C5 /* SampleForLineBreak.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF23212FD5810005952C5 /* SampleForLineBreak.m */; };
+		046AF25312FD5810005952C5 /* SampleForMinFontSize.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF23412FD5810005952C5 /* SampleForMinFontSize.m */; };
+		046AF25412FD5810005952C5 /* SampleForOpaque.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF23612FD5810005952C5 /* SampleForOpaque.m */; };
+		046AF25512FD5810005952C5 /* SampleForSizeWithFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF23812FD5810005952C5 /* SampleForSizeWithFont.m */; };
+		046AF25612FD5810005952C5 /* SampleForSystemFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF23A12FD5810005952C5 /* SampleForSystemFont.m */; };
+		046AF25712FD5810005952C5 /* SampleForTextAlignment.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF23C12FD5810005952C5 /* SampleForTextAlignment.m */; };
+		046AF25812FD5810005952C5 /* SampleForTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF23E12FD5810005952C5 /* SampleForTransition.m */; };
+		046AF25912FD5810005952C5 /* SampleForUIImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF24012FD5810005952C5 /* SampleForUIImage.m */; };
+		046AF25A12FD5810005952C5 /* SampleForUIImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF24212FD5810005952C5 /* SampleForUIImageView.m */; };
+		046AF25B12FD5810005952C5 /* SampleForUIImageViewAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AF24412FD5810005952C5 /* SampleForUIImageViewAnimation.m */; };
+		1D3623260D0F684500981E51 /* GraphicsSampleAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* GraphicsSampleAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		046AF20712FD5801005952C5 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = back.png; path = Images/back.png; sourceTree = "<group>"; };
+		046AF20812FD5801005952C5 /* chara1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = chara1.png; path = Images/chara1.png; sourceTree = "<group>"; };
+		046AF20912FD5801005952C5 /* chara2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = chara2.png; path = Images/chara2.png; sourceTree = "<group>"; };
+		046AF20A12FD5801005952C5 /* circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = circle.png; path = Images/circle.png; sourceTree = "<group>"; };
+		046AF20B12FD5801005952C5 /* dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dog.jpg; path = Images/dog.jpg; sourceTree = "<group>"; };
+		046AF20C12FD5801005952C5 /* metal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = metal.png; path = Images/metal.png; sourceTree = "<group>"; };
+		046AF20D12FD5801005952C5 /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = star.png; path = Images/star.png; sourceTree = "<group>"; };
+		046AF20E12FD5801005952C5 /* town.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = town.jpg; path = Images/town.jpg; sourceTree = "<group>"; };
+		046AF21712FD5810005952C5 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		046AF21812FD5810005952C5 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		046AF21912FD5810005952C5 /* SampleForAnimationCurve.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForAnimationCurve.h; sourceTree = "<group>"; };
+		046AF21A12FD5810005952C5 /* SampleForAnimationCurve.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForAnimationCurve.m; sourceTree = "<group>"; };
+		046AF21B12FD5810005952C5 /* SampleForAnimationMove.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForAnimationMove.h; sourceTree = "<group>"; };
+		046AF21C12FD5810005952C5 /* SampleForAnimationMove.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForAnimationMove.m; sourceTree = "<group>"; };
+		046AF21D12FD5810005952C5 /* SampleForAnimationObserving.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForAnimationObserving.h; sourceTree = "<group>"; };
+		046AF21E12FD5810005952C5 /* SampleForAnimationObserving.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForAnimationObserving.m; sourceTree = "<group>"; };
+		046AF21F12FD5810005952C5 /* SampleForAnimationRepeat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForAnimationRepeat.h; sourceTree = "<group>"; };
+		046AF22012FD5810005952C5 /* SampleForAnimationRepeat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForAnimationRepeat.m; sourceTree = "<group>"; };
+		046AF22112FD5810005952C5 /* SampleForAnimationTransform.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForAnimationTransform.h; sourceTree = "<group>"; };
+		046AF22212FD5810005952C5 /* SampleForAnimationTransform.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForAnimationTransform.m; sourceTree = "<group>"; };
+		046AF22312FD5810005952C5 /* SampleForBaselineAdjustment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForBaselineAdjustment.h; sourceTree = "<group>"; };
+		046AF22412FD5810005952C5 /* SampleForBaselineAdjustment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForBaselineAdjustment.m; sourceTree = "<group>"; };
+		046AF22512FD5810005952C5 /* SampleForBlendMode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForBlendMode.h; sourceTree = "<group>"; };
+		046AF22612FD5810005952C5 /* SampleForBlendMode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForBlendMode.m; sourceTree = "<group>"; };
+		046AF22712FD5810005952C5 /* SampleForDrawingStrings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForDrawingStrings.h; sourceTree = "<group>"; };
+		046AF22812FD5810005952C5 /* SampleForDrawingStrings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForDrawingStrings.m; sourceTree = "<group>"; };
+		046AF22912FD5810005952C5 /* SampleForDrawingStringsInRect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForDrawingStringsInRect.h; sourceTree = "<group>"; };
+		046AF22A12FD5810005952C5 /* SampleForDrawingStringsInRect.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForDrawingStringsInRect.m; sourceTree = "<group>"; };
+		046AF22B12FD5810005952C5 /* SampleForFontWithName.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForFontWithName.h; sourceTree = "<group>"; };
+		046AF22C12FD5810005952C5 /* SampleForFontWithName.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForFontWithName.m; sourceTree = "<group>"; };
+		046AF22D12FD5810005952C5 /* SampleForImageWithCap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForImageWithCap.h; sourceTree = "<group>"; };
+		046AF22E12FD5810005952C5 /* SampleForImageWithCap.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForImageWithCap.m; sourceTree = "<group>"; };
+		046AF22F12FD5810005952C5 /* SampleForLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForLabel.h; sourceTree = "<group>"; };
+		046AF23012FD5810005952C5 /* SampleForLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForLabel.m; sourceTree = "<group>"; };
+		046AF23112FD5810005952C5 /* SampleForLineBreak.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForLineBreak.h; sourceTree = "<group>"; };
+		046AF23212FD5810005952C5 /* SampleForLineBreak.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForLineBreak.m; sourceTree = "<group>"; };
+		046AF23312FD5810005952C5 /* SampleForMinFontSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForMinFontSize.h; sourceTree = "<group>"; };
+		046AF23412FD5810005952C5 /* SampleForMinFontSize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForMinFontSize.m; sourceTree = "<group>"; };
+		046AF23512FD5810005952C5 /* SampleForOpaque.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForOpaque.h; sourceTree = "<group>"; };
+		046AF23612FD5810005952C5 /* SampleForOpaque.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForOpaque.m; sourceTree = "<group>"; };
+		046AF23712FD5810005952C5 /* SampleForSizeWithFont.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForSizeWithFont.h; sourceTree = "<group>"; };
+		046AF23812FD5810005952C5 /* SampleForSizeWithFont.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForSizeWithFont.m; sourceTree = "<group>"; };
+		046AF23912FD5810005952C5 /* SampleForSystemFont.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForSystemFont.h; sourceTree = "<group>"; };
+		046AF23A12FD5810005952C5 /* SampleForSystemFont.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForSystemFont.m; sourceTree = "<group>"; };
+		046AF23B12FD5810005952C5 /* SampleForTextAlignment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForTextAlignment.h; sourceTree = "<group>"; };
+		046AF23C12FD5810005952C5 /* SampleForTextAlignment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForTextAlignment.m; sourceTree = "<group>"; };
+		046AF23D12FD5810005952C5 /* SampleForTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForTransition.h; sourceTree = "<group>"; };
+		046AF23E12FD5810005952C5 /* SampleForTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForTransition.m; sourceTree = "<group>"; };
+		046AF23F12FD5810005952C5 /* SampleForUIImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForUIImage.h; sourceTree = "<group>"; };
+		046AF24012FD5810005952C5 /* SampleForUIImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForUIImage.m; sourceTree = "<group>"; };
+		046AF24112FD5810005952C5 /* SampleForUIImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForUIImageView.h; sourceTree = "<group>"; };
+		046AF24212FD5810005952C5 /* SampleForUIImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForUIImageView.m; sourceTree = "<group>"; };
+		046AF24312FD5810005952C5 /* SampleForUIImageViewAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForUIImageViewAnimation.h; sourceTree = "<group>"; };
+		046AF24412FD5810005952C5 /* SampleForUIImageViewAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForUIImageViewAnimation.m; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* GraphicsSampleAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GraphicsSampleAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* GraphicsSampleAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GraphicsSampleAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* GraphicsSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GraphicsSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* GraphicsSample_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GraphicsSample_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* GraphicsSample-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GraphicsSample-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				046AF21712FD5810005952C5 /* RootViewController.h */,
+				046AF21812FD5810005952C5 /* RootViewController.m */,
+				046AF21912FD5810005952C5 /* SampleForAnimationCurve.h */,
+				046AF21A12FD5810005952C5 /* SampleForAnimationCurve.m */,
+				046AF21B12FD5810005952C5 /* SampleForAnimationMove.h */,
+				046AF21C12FD5810005952C5 /* SampleForAnimationMove.m */,
+				046AF21D12FD5810005952C5 /* SampleForAnimationObserving.h */,
+				046AF21E12FD5810005952C5 /* SampleForAnimationObserving.m */,
+				046AF21F12FD5810005952C5 /* SampleForAnimationRepeat.h */,
+				046AF22012FD5810005952C5 /* SampleForAnimationRepeat.m */,
+				046AF22112FD5810005952C5 /* SampleForAnimationTransform.h */,
+				046AF22212FD5810005952C5 /* SampleForAnimationTransform.m */,
+				046AF22312FD5810005952C5 /* SampleForBaselineAdjustment.h */,
+				046AF22412FD5810005952C5 /* SampleForBaselineAdjustment.m */,
+				046AF22512FD5810005952C5 /* SampleForBlendMode.h */,
+				046AF22612FD5810005952C5 /* SampleForBlendMode.m */,
+				046AF22712FD5810005952C5 /* SampleForDrawingStrings.h */,
+				046AF22812FD5810005952C5 /* SampleForDrawingStrings.m */,
+				046AF22912FD5810005952C5 /* SampleForDrawingStringsInRect.h */,
+				046AF22A12FD5810005952C5 /* SampleForDrawingStringsInRect.m */,
+				046AF22B12FD5810005952C5 /* SampleForFontWithName.h */,
+				046AF22C12FD5810005952C5 /* SampleForFontWithName.m */,
+				046AF22D12FD5810005952C5 /* SampleForImageWithCap.h */,
+				046AF22E12FD5810005952C5 /* SampleForImageWithCap.m */,
+				046AF22F12FD5810005952C5 /* SampleForLabel.h */,
+				046AF23012FD5810005952C5 /* SampleForLabel.m */,
+				046AF23112FD5810005952C5 /* SampleForLineBreak.h */,
+				046AF23212FD5810005952C5 /* SampleForLineBreak.m */,
+				046AF23312FD5810005952C5 /* SampleForMinFontSize.h */,
+				046AF23412FD5810005952C5 /* SampleForMinFontSize.m */,
+				046AF23512FD5810005952C5 /* SampleForOpaque.h */,
+				046AF23612FD5810005952C5 /* SampleForOpaque.m */,
+				046AF23712FD5810005952C5 /* SampleForSizeWithFont.h */,
+				046AF23812FD5810005952C5 /* SampleForSizeWithFont.m */,
+				046AF23912FD5810005952C5 /* SampleForSystemFont.h */,
+				046AF23A12FD5810005952C5 /* SampleForSystemFont.m */,
+				046AF23B12FD5810005952C5 /* SampleForTextAlignment.h */,
+				046AF23C12FD5810005952C5 /* SampleForTextAlignment.m */,
+				046AF23D12FD5810005952C5 /* SampleForTransition.h */,
+				046AF23E12FD5810005952C5 /* SampleForTransition.m */,
+				046AF23F12FD5810005952C5 /* SampleForUIImage.h */,
+				046AF24012FD5810005952C5 /* SampleForUIImage.m */,
+				046AF24112FD5810005952C5 /* SampleForUIImageView.h */,
+				046AF24212FD5810005952C5 /* SampleForUIImageView.m */,
+				046AF24312FD5810005952C5 /* SampleForUIImageViewAnimation.h */,
+				046AF24412FD5810005952C5 /* SampleForUIImageViewAnimation.m */,
+				1D3623240D0F684500981E51 /* GraphicsSampleAppDelegate.h */,
+				1D3623250D0F684500981E51 /* GraphicsSampleAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* GraphicsSample.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* GraphicsSample_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				046AF20712FD5801005952C5 /* back.png */,
+				046AF20812FD5801005952C5 /* chara1.png */,
+				046AF20912FD5801005952C5 /* chara2.png */,
+				046AF20A12FD5801005952C5 /* circle.png */,
+				046AF20B12FD5801005952C5 /* dog.jpg */,
+				046AF20C12FD5801005952C5 /* metal.png */,
+				046AF20D12FD5801005952C5 /* star.png */,
+				046AF20E12FD5801005952C5 /* town.jpg */,
+				8D1107310486CEB800E47090 /* GraphicsSample-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* GraphicsSample */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "GraphicsSample" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GraphicsSample;
+			productName = GraphicsSample;
+			productReference = 1D6058910D05DD3D006BFB54 /* GraphicsSample.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "GraphicsSample" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* GraphicsSample */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				046AF20F12FD5801005952C5 /* back.png in Resources */,
+				046AF21012FD5801005952C5 /* chara1.png in Resources */,
+				046AF21112FD5801005952C5 /* chara2.png in Resources */,
+				046AF21212FD5801005952C5 /* circle.png in Resources */,
+				046AF21312FD5801005952C5 /* dog.jpg in Resources */,
+				046AF21412FD5801005952C5 /* metal.png in Resources */,
+				046AF21512FD5801005952C5 /* star.png in Resources */,
+				046AF21612FD5801005952C5 /* town.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* GraphicsSampleAppDelegate.m in Sources */,
+				046AF24512FD5810005952C5 /* RootViewController.m in Sources */,
+				046AF24612FD5810005952C5 /* SampleForAnimationCurve.m in Sources */,
+				046AF24712FD5810005952C5 /* SampleForAnimationMove.m in Sources */,
+				046AF24812FD5810005952C5 /* SampleForAnimationObserving.m in Sources */,
+				046AF24912FD5810005952C5 /* SampleForAnimationRepeat.m in Sources */,
+				046AF24A12FD5810005952C5 /* SampleForAnimationTransform.m in Sources */,
+				046AF24B12FD5810005952C5 /* SampleForBaselineAdjustment.m in Sources */,
+				046AF24C12FD5810005952C5 /* SampleForBlendMode.m in Sources */,
+				046AF24D12FD5810005952C5 /* SampleForDrawingStrings.m in Sources */,
+				046AF24E12FD5810005952C5 /* SampleForDrawingStringsInRect.m in Sources */,
+				046AF24F12FD5810005952C5 /* SampleForFontWithName.m in Sources */,
+				046AF25012FD5810005952C5 /* SampleForImageWithCap.m in Sources */,
+				046AF25112FD5810005952C5 /* SampleForLabel.m in Sources */,
+				046AF25212FD5810005952C5 /* SampleForLineBreak.m in Sources */,
+				046AF25312FD5810005952C5 /* SampleForMinFontSize.m in Sources */,
+				046AF25412FD5810005952C5 /* SampleForOpaque.m in Sources */,
+				046AF25512FD5810005952C5 /* SampleForSizeWithFont.m in Sources */,
+				046AF25612FD5810005952C5 /* SampleForSystemFont.m in Sources */,
+				046AF25712FD5810005952C5 /* SampleForTextAlignment.m in Sources */,
+				046AF25812FD5810005952C5 /* SampleForTransition.m in Sources */,
+				046AF25912FD5810005952C5 /* SampleForUIImage.m in Sources */,
+				046AF25A12FD5810005952C5 /* SampleForUIImageView.m in Sources */,
+				046AF25B12FD5810005952C5 /* SampleForUIImageViewAnimation.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = GraphicsSample_Prefix.pch;
+				INFOPLIST_FILE = "GraphicsSample-Info.plist";
+				PRODUCT_NAME = GraphicsSample;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = GraphicsSample_Prefix.pch;
+				INFOPLIST_FILE = "GraphicsSample-Info.plist";
+				PRODUCT_NAME = GraphicsSample;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "GraphicsSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "GraphicsSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

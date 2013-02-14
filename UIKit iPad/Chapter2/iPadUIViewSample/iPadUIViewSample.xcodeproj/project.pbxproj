@@ -1,0 +1,374 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		046AEBEB12FD0927005952C5 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBC412FD0927005952C5 /* RootViewController.m */; };
+		046AEBEC12FD0927005952C5 /* SampleBaseController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBC612FD0927005952C5 /* SampleBaseController.m */; };
+		046AEBED12FD0927005952C5 /* SampleForBounds.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBCB12FD0927005952C5 /* SampleForBounds.m */; };
+		046AEBEE12FD0927005952C5 /* SampleForHide.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBDA12FD0927005952C5 /* SampleForHide.m */; };
+		046AEBEF12FD0927005952C5 /* SampleForContentMode.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBDB12FD0927005952C5 /* SampleForContentMode.m */; };
+		046AEBF012FD0927005952C5 /* SampleForLayoutSubviews.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBDC12FD0927005952C5 /* SampleForLayoutSubviews.m */; };
+		046AEBF112FD0927005952C5 /* SampleForObserving.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBDD12FD0927005952C5 /* SampleForObserving.m */; };
+		046AEBF212FD0927005952C5 /* SampleForSubviews.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBDE12FD0927005952C5 /* SampleForSubviews.m */; };
+		046AEBF312FD0927005952C5 /* SampleForTransform.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBDF12FD0927005952C5 /* SampleForTransform.m */; };
+		046AEBF412FD0927005952C5 /* SampleForAutoResize.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBE012FD0927005952C5 /* SampleForAutoResize.m */; };
+		046AEBF512FD0927005952C5 /* SampleForFit.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBE112FD0927005952C5 /* SampleForFit.m */; };
+		046AEBF612FD0927005952C5 /* SampleForFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBE212FD0927005952C5 /* SampleForFrame.m */; };
+		046AEBF712FD0927005952C5 /* SampleForBackground.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBE312FD0927005952C5 /* SampleForBackground.m */; };
+		046AEBF812FD0927005952C5 /* SampleForAlpha.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBE412FD0927005952C5 /* SampleForAlpha.m */; };
+		046AEBF912FD0927005952C5 /* SampleForContentStretch.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBE512FD0927005952C5 /* SampleForContentStretch.m */; };
+		046AEBFA12FD0927005952C5 /* SampleForConvertPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBE612FD0927005952C5 /* SampleForConvertPoint.m */; };
+		046AEBFB12FD0927005952C5 /* SampleForInsert.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBE712FD0927005952C5 /* SampleForInsert.m */; };
+		046AEBFC12FD0927005952C5 /* SampleForSiblings.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBE812FD0927005952C5 /* SampleForSiblings.m */; };
+		046AEBFD12FD0927005952C5 /* SampleForTag.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBE912FD0927005952C5 /* SampleForTag.m */; };
+		046AEBFE12FD0927005952C5 /* SampleForTransparent.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AEBEA12FD0927005952C5 /* SampleForTransparent.m */; };
+		046AEC0312FD09C0005952C5 /* dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 046AEC0112FD09C0005952C5 /* dog.jpg */; };
+		046AEC0412FD09C0005952C5 /* narrow_dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 046AEC0212FD09C0005952C5 /* narrow_dog.jpg */; };
+		1D3623260D0F684500981E51 /* iPadUIViewSampleAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* iPadUIViewSampleAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		046AEBC312FD0927005952C5 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		046AEBC412FD0927005952C5 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		046AEBC512FD0927005952C5 /* SampleBaseController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleBaseController.h; sourceTree = "<group>"; };
+		046AEBC612FD0927005952C5 /* SampleBaseController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleBaseController.m; sourceTree = "<group>"; };
+		046AEBC712FD0927005952C5 /* SampleForAlpha.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForAlpha.h; sourceTree = "<group>"; };
+		046AEBC812FD0927005952C5 /* SampleForAutoResize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForAutoResize.h; sourceTree = "<group>"; };
+		046AEBC912FD0927005952C5 /* SampleForBackground.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForBackground.h; sourceTree = "<group>"; };
+		046AEBCA12FD0927005952C5 /* SampleForBounds.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForBounds.h; sourceTree = "<group>"; };
+		046AEBCB12FD0927005952C5 /* SampleForBounds.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForBounds.m; sourceTree = "<group>"; };
+		046AEBCC12FD0927005952C5 /* SampleForContentMode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForContentMode.h; sourceTree = "<group>"; };
+		046AEBCD12FD0927005952C5 /* SampleForContentStretch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForContentStretch.h; sourceTree = "<group>"; };
+		046AEBCE12FD0927005952C5 /* SampleForConvertPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForConvertPoint.h; sourceTree = "<group>"; };
+		046AEBCF12FD0927005952C5 /* SampleForFit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForFit.h; sourceTree = "<group>"; };
+		046AEBD012FD0927005952C5 /* SampleForFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForFrame.h; sourceTree = "<group>"; };
+		046AEBD112FD0927005952C5 /* SampleForHide.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForHide.h; sourceTree = "<group>"; };
+		046AEBD212FD0927005952C5 /* SampleForInsert.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForInsert.h; sourceTree = "<group>"; };
+		046AEBD312FD0927005952C5 /* SampleForLayoutSubviews.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForLayoutSubviews.h; sourceTree = "<group>"; };
+		046AEBD412FD0927005952C5 /* SampleForObserving.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForObserving.h; sourceTree = "<group>"; };
+		046AEBD512FD0927005952C5 /* SampleForSiblings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForSiblings.h; sourceTree = "<group>"; };
+		046AEBD612FD0927005952C5 /* SampleForSubviews.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForSubviews.h; sourceTree = "<group>"; };
+		046AEBD712FD0927005952C5 /* SampleForTag.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForTag.h; sourceTree = "<group>"; };
+		046AEBD812FD0927005952C5 /* SampleForTransform.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForTransform.h; sourceTree = "<group>"; };
+		046AEBD912FD0927005952C5 /* SampleForTransparent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForTransparent.h; sourceTree = "<group>"; };
+		046AEBDA12FD0927005952C5 /* SampleForHide.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForHide.m; sourceTree = "<group>"; };
+		046AEBDB12FD0927005952C5 /* SampleForContentMode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForContentMode.m; sourceTree = "<group>"; };
+		046AEBDC12FD0927005952C5 /* SampleForLayoutSubviews.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForLayoutSubviews.m; sourceTree = "<group>"; };
+		046AEBDD12FD0927005952C5 /* SampleForObserving.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForObserving.m; sourceTree = "<group>"; };
+		046AEBDE12FD0927005952C5 /* SampleForSubviews.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForSubviews.m; sourceTree = "<group>"; };
+		046AEBDF12FD0927005952C5 /* SampleForTransform.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForTransform.m; sourceTree = "<group>"; };
+		046AEBE012FD0927005952C5 /* SampleForAutoResize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForAutoResize.m; sourceTree = "<group>"; };
+		046AEBE112FD0927005952C5 /* SampleForFit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForFit.m; sourceTree = "<group>"; };
+		046AEBE212FD0927005952C5 /* SampleForFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForFrame.m; sourceTree = "<group>"; };
+		046AEBE312FD0927005952C5 /* SampleForBackground.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForBackground.m; sourceTree = "<group>"; };
+		046AEBE412FD0927005952C5 /* SampleForAlpha.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForAlpha.m; sourceTree = "<group>"; };
+		046AEBE512FD0927005952C5 /* SampleForContentStretch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForContentStretch.m; sourceTree = "<group>"; };
+		046AEBE612FD0927005952C5 /* SampleForConvertPoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForConvertPoint.m; sourceTree = "<group>"; };
+		046AEBE712FD0927005952C5 /* SampleForInsert.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForInsert.m; sourceTree = "<group>"; };
+		046AEBE812FD0927005952C5 /* SampleForSiblings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForSiblings.m; sourceTree = "<group>"; };
+		046AEBE912FD0927005952C5 /* SampleForTag.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForTag.m; sourceTree = "<group>"; };
+		046AEBEA12FD0927005952C5 /* SampleForTransparent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForTransparent.m; sourceTree = "<group>"; };
+		046AEC0112FD09C0005952C5 /* dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dog.jpg; path = Resources/dog.jpg; sourceTree = "<group>"; };
+		046AEC0212FD09C0005952C5 /* narrow_dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = narrow_dog.jpg; path = Resources/narrow_dog.jpg; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* iPadUIViewSampleAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iPadUIViewSampleAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* iPadUIViewSampleAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iPadUIViewSampleAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* iPadUIViewSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPadUIViewSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* iPadUIViewSample_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iPadUIViewSample_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* iPadUIViewSample-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "iPadUIViewSample-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				046AEBC312FD0927005952C5 /* RootViewController.h */,
+				046AEBC412FD0927005952C5 /* RootViewController.m */,
+				046AEBC512FD0927005952C5 /* SampleBaseController.h */,
+				046AEBC612FD0927005952C5 /* SampleBaseController.m */,
+				046AEBC712FD0927005952C5 /* SampleForAlpha.h */,
+				046AEBC812FD0927005952C5 /* SampleForAutoResize.h */,
+				046AEBC912FD0927005952C5 /* SampleForBackground.h */,
+				046AEBCA12FD0927005952C5 /* SampleForBounds.h */,
+				046AEBCB12FD0927005952C5 /* SampleForBounds.m */,
+				046AEBCC12FD0927005952C5 /* SampleForContentMode.h */,
+				046AEBCD12FD0927005952C5 /* SampleForContentStretch.h */,
+				046AEBCE12FD0927005952C5 /* SampleForConvertPoint.h */,
+				046AEBCF12FD0927005952C5 /* SampleForFit.h */,
+				046AEBD012FD0927005952C5 /* SampleForFrame.h */,
+				046AEBD112FD0927005952C5 /* SampleForHide.h */,
+				046AEBD212FD0927005952C5 /* SampleForInsert.h */,
+				046AEBD312FD0927005952C5 /* SampleForLayoutSubviews.h */,
+				046AEBD412FD0927005952C5 /* SampleForObserving.h */,
+				046AEBD512FD0927005952C5 /* SampleForSiblings.h */,
+				046AEBD612FD0927005952C5 /* SampleForSubviews.h */,
+				046AEBD712FD0927005952C5 /* SampleForTag.h */,
+				046AEBD812FD0927005952C5 /* SampleForTransform.h */,
+				046AEBD912FD0927005952C5 /* SampleForTransparent.h */,
+				046AEBDA12FD0927005952C5 /* SampleForHide.m */,
+				046AEBDB12FD0927005952C5 /* SampleForContentMode.m */,
+				046AEBDC12FD0927005952C5 /* SampleForLayoutSubviews.m */,
+				046AEBDD12FD0927005952C5 /* SampleForObserving.m */,
+				046AEBDE12FD0927005952C5 /* SampleForSubviews.m */,
+				046AEBDF12FD0927005952C5 /* SampleForTransform.m */,
+				046AEBE012FD0927005952C5 /* SampleForAutoResize.m */,
+				046AEBE112FD0927005952C5 /* SampleForFit.m */,
+				046AEBE212FD0927005952C5 /* SampleForFrame.m */,
+				046AEBE312FD0927005952C5 /* SampleForBackground.m */,
+				046AEBE412FD0927005952C5 /* SampleForAlpha.m */,
+				046AEBE512FD0927005952C5 /* SampleForContentStretch.m */,
+				046AEBE612FD0927005952C5 /* SampleForConvertPoint.m */,
+				046AEBE712FD0927005952C5 /* SampleForInsert.m */,
+				046AEBE812FD0927005952C5 /* SampleForSiblings.m */,
+				046AEBE912FD0927005952C5 /* SampleForTag.m */,
+				046AEBEA12FD0927005952C5 /* SampleForTransparent.m */,
+				1D3623240D0F684500981E51 /* iPadUIViewSampleAppDelegate.h */,
+				1D3623250D0F684500981E51 /* iPadUIViewSampleAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* iPadUIViewSample.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* iPadUIViewSample_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				046AEC0112FD09C0005952C5 /* dog.jpg */,
+				046AEC0212FD09C0005952C5 /* narrow_dog.jpg */,
+				8D1107310486CEB800E47090 /* iPadUIViewSample-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* iPadUIViewSample */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iPadUIViewSample" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iPadUIViewSample;
+			productName = iPadUIViewSample;
+			productReference = 1D6058910D05DD3D006BFB54 /* iPadUIViewSample.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iPadUIViewSample" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* iPadUIViewSample */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				046AEC0312FD09C0005952C5 /* dog.jpg in Resources */,
+				046AEC0412FD09C0005952C5 /* narrow_dog.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* iPadUIViewSampleAppDelegate.m in Sources */,
+				046AEBEB12FD0927005952C5 /* RootViewController.m in Sources */,
+				046AEBEC12FD0927005952C5 /* SampleBaseController.m in Sources */,
+				046AEBED12FD0927005952C5 /* SampleForBounds.m in Sources */,
+				046AEBEE12FD0927005952C5 /* SampleForHide.m in Sources */,
+				046AEBEF12FD0927005952C5 /* SampleForContentMode.m in Sources */,
+				046AEBF012FD0927005952C5 /* SampleForLayoutSubviews.m in Sources */,
+				046AEBF112FD0927005952C5 /* SampleForObserving.m in Sources */,
+				046AEBF212FD0927005952C5 /* SampleForSubviews.m in Sources */,
+				046AEBF312FD0927005952C5 /* SampleForTransform.m in Sources */,
+				046AEBF412FD0927005952C5 /* SampleForAutoResize.m in Sources */,
+				046AEBF512FD0927005952C5 /* SampleForFit.m in Sources */,
+				046AEBF612FD0927005952C5 /* SampleForFrame.m in Sources */,
+				046AEBF712FD0927005952C5 /* SampleForBackground.m in Sources */,
+				046AEBF812FD0927005952C5 /* SampleForAlpha.m in Sources */,
+				046AEBF912FD0927005952C5 /* SampleForContentStretch.m in Sources */,
+				046AEBFA12FD0927005952C5 /* SampleForConvertPoint.m in Sources */,
+				046AEBFB12FD0927005952C5 /* SampleForInsert.m in Sources */,
+				046AEBFC12FD0927005952C5 /* SampleForSiblings.m in Sources */,
+				046AEBFD12FD0927005952C5 /* SampleForTag.m in Sources */,
+				046AEBFE12FD0927005952C5 /* SampleForTransparent.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iPadUIViewSample_Prefix.pch;
+				INFOPLIST_FILE = "iPadUIViewSample-Info.plist";
+				PRODUCT_NAME = iPadUIViewSample;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iPadUIViewSample_Prefix.pch;
+				INFOPLIST_FILE = "iPadUIViewSample-Info.plist";
+				PRODUCT_NAME = iPadUIViewSample;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iPadUIViewSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iPadUIViewSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

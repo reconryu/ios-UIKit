@@ -1,0 +1,376 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		046AED8912FD2DE0005952C5 /* SampleForBarButtonWithTitle.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED6512FD2DE0005952C5 /* SampleForBarButtonWithTitle.m */; };
+		046AED8A12FD2DE0005952C5 /* SampleForObserving.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED6B12FD2DE0005952C5 /* SampleForObserving.m */; };
+		046AED8B12FD2DE0005952C5 /* SampleForRotate.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED6D12FD2DE0005952C5 /* SampleForRotate.m */; };
+		046AED8C12FD2DE0005952C5 /* SampleForRotateAndAutoresizing.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED6F12FD2DE0005952C5 /* SampleForRotateAndAutoresizing.m */; };
+		046AED8D12FD2DE0005952C5 /* SampleForRotateManual.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED7212FD2DE0005952C5 /* SampleForRotateManual.m */; };
+		046AED8E12FD2DE0005952C5 /* SampleForModal.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED7812FD2DE0005952C5 /* SampleForModal.m */; };
+		046AED8F12FD2DE0005952C5 /* SampleForBarColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED7912FD2DE0005952C5 /* SampleForBarColor.m */; };
+		046AED9012FD2DE0005952C5 /* SampleForTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED7A12FD2DE0005952C5 /* SampleForTitleView.m */; };
+		046AED9112FD2DE0005952C5 /* SampleForCustomBarButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED7B12FD2DE0005952C5 /* SampleForCustomBarButton.m */; };
+		046AED9212FD2DE0005952C5 /* SampleForStatusBarColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED7C12FD2DE0005952C5 /* SampleForStatusBarColor.m */; };
+		046AED9312FD2DE0005952C5 /* SampleForToolbarSystemItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED7D12FD2DE0005952C5 /* SampleForToolbarSystemItem.m */; };
+		046AED9412FD2DE0005952C5 /* SampleForNavigation.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED7E12FD2DE0005952C5 /* SampleForNavigation.m */; };
+		046AED9512FD2DE0005952C5 /* SampleForToolbar.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED8112FD2DE0005952C5 /* SampleForToolbar.m */; };
+		046AED9612FD2DE0005952C5 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED8212FD2DE0005952C5 /* RootViewController.m */; };
+		046AED9712FD2DE0005952C5 /* SampleForTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED8312FD2DE0005952C5 /* SampleForTabBar.m */; };
+		046AED9812FD2DE0005952C5 /* SampleForToolbarWithSpace.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED8512FD2DE0005952C5 /* SampleForToolbarWithSpace.m */; };
+		046AED9912FD2DE0005952C5 /* SampleForFullScreenWithTransparent.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED8612FD2DE0005952C5 /* SampleForFullScreenWithTransparent.m */; };
+		046AED9A12FD2DE0005952C5 /* SampleForRotateAndFullScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED8712FD2DE0005952C5 /* SampleForRotateAndFullScreen.m */; };
+		046AED9B12FD2DE0005952C5 /* SampleForFullScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AED8812FD2DE0005952C5 /* SampleForFullScreen.m */; };
+		046AEDA012FD2DF6005952C5 /* dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 046AED9C12FD2DF6005952C5 /* dog.jpg */; };
+		046AEDA112FD2DF6005952C5 /* face.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 046AED9D12FD2DF6005952C5 /* face.jpg */; };
+		046AEDA212FD2DF6005952C5 /* smile.png in Resources */ = {isa = PBXBuildFile; fileRef = 046AED9E12FD2DF6005952C5 /* smile.png */; };
+		046AEDA312FD2DF6005952C5 /* town.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 046AED9F12FD2DF6005952C5 /* town.jpg */; };
+		1D3623260D0F684500981E51 /* UIViewControllerSampleAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* UIViewControllerSampleAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		046AED6312FD2DE0005952C5 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		046AED6412FD2DE0005952C5 /* SampleForBarButtonWithTitle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForBarButtonWithTitle.h; sourceTree = "<group>"; };
+		046AED6512FD2DE0005952C5 /* SampleForBarButtonWithTitle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForBarButtonWithTitle.m; sourceTree = "<group>"; };
+		046AED6612FD2DE0005952C5 /* SampleForBarColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForBarColor.h; sourceTree = "<group>"; };
+		046AED6712FD2DE0005952C5 /* SampleForCustomBarButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForCustomBarButton.h; sourceTree = "<group>"; };
+		046AED6812FD2DE0005952C5 /* SampleForFullScreenWithTransparent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForFullScreenWithTransparent.h; sourceTree = "<group>"; };
+		046AED6912FD2DE0005952C5 /* SampleForNavigation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForNavigation.h; sourceTree = "<group>"; };
+		046AED6A12FD2DE0005952C5 /* SampleForObserving.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForObserving.h; sourceTree = "<group>"; };
+		046AED6B12FD2DE0005952C5 /* SampleForObserving.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForObserving.m; sourceTree = "<group>"; };
+		046AED6C12FD2DE0005952C5 /* SampleForRotate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForRotate.h; sourceTree = "<group>"; };
+		046AED6D12FD2DE0005952C5 /* SampleForRotate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForRotate.m; sourceTree = "<group>"; };
+		046AED6E12FD2DE0005952C5 /* SampleForRotateAndAutoresizing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForRotateAndAutoresizing.h; sourceTree = "<group>"; };
+		046AED6F12FD2DE0005952C5 /* SampleForRotateAndAutoresizing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForRotateAndAutoresizing.m; sourceTree = "<group>"; };
+		046AED7012FD2DE0005952C5 /* SampleForRotateAndFullScreen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForRotateAndFullScreen.h; sourceTree = "<group>"; };
+		046AED7112FD2DE0005952C5 /* SampleForRotateManual.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForRotateManual.h; sourceTree = "<group>"; };
+		046AED7212FD2DE0005952C5 /* SampleForRotateManual.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForRotateManual.m; sourceTree = "<group>"; };
+		046AED7312FD2DE0005952C5 /* SampleForStatusBarColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForStatusBarColor.h; sourceTree = "<group>"; };
+		046AED7412FD2DE0005952C5 /* SampleForTabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForTabBar.h; sourceTree = "<group>"; };
+		046AED7512FD2DE0005952C5 /* SampleForTitleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForTitleView.h; sourceTree = "<group>"; };
+		046AED7612FD2DE0005952C5 /* SampleForToolbarSystemItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForToolbarSystemItem.h; sourceTree = "<group>"; };
+		046AED7712FD2DE0005952C5 /* SampleForToolbarWithSpace.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForToolbarWithSpace.h; sourceTree = "<group>"; };
+		046AED7812FD2DE0005952C5 /* SampleForModal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForModal.m; sourceTree = "<group>"; };
+		046AED7912FD2DE0005952C5 /* SampleForBarColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForBarColor.m; sourceTree = "<group>"; };
+		046AED7A12FD2DE0005952C5 /* SampleForTitleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForTitleView.m; sourceTree = "<group>"; };
+		046AED7B12FD2DE0005952C5 /* SampleForCustomBarButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForCustomBarButton.m; sourceTree = "<group>"; };
+		046AED7C12FD2DE0005952C5 /* SampleForStatusBarColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForStatusBarColor.m; sourceTree = "<group>"; };
+		046AED7D12FD2DE0005952C5 /* SampleForToolbarSystemItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForToolbarSystemItem.m; sourceTree = "<group>"; };
+		046AED7E12FD2DE0005952C5 /* SampleForNavigation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForNavigation.m; sourceTree = "<group>"; };
+		046AED7F12FD2DE0005952C5 /* SampleForFullScreen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForFullScreen.h; sourceTree = "<group>"; };
+		046AED8012FD2DE0005952C5 /* SampleForToolbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForToolbar.h; sourceTree = "<group>"; };
+		046AED8112FD2DE0005952C5 /* SampleForToolbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForToolbar.m; sourceTree = "<group>"; };
+		046AED8212FD2DE0005952C5 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		046AED8312FD2DE0005952C5 /* SampleForTabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForTabBar.m; sourceTree = "<group>"; };
+		046AED8412FD2DE0005952C5 /* SampleForModal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForModal.h; sourceTree = "<group>"; };
+		046AED8512FD2DE0005952C5 /* SampleForToolbarWithSpace.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForToolbarWithSpace.m; sourceTree = "<group>"; };
+		046AED8612FD2DE0005952C5 /* SampleForFullScreenWithTransparent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForFullScreenWithTransparent.m; sourceTree = "<group>"; };
+		046AED8712FD2DE0005952C5 /* SampleForRotateAndFullScreen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForRotateAndFullScreen.m; sourceTree = "<group>"; };
+		046AED8812FD2DE0005952C5 /* SampleForFullScreen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForFullScreen.m; sourceTree = "<group>"; };
+		046AED9C12FD2DF6005952C5 /* dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dog.jpg; path = Images/dog.jpg; sourceTree = "<group>"; };
+		046AED9D12FD2DF6005952C5 /* face.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = face.jpg; path = Images/face.jpg; sourceTree = "<group>"; };
+		046AED9E12FD2DF6005952C5 /* smile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smile.png; path = Images/smile.png; sourceTree = "<group>"; };
+		046AED9F12FD2DF6005952C5 /* town.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = town.jpg; path = Images/town.jpg; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* UIViewControllerSampleAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIViewControllerSampleAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* UIViewControllerSampleAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIViewControllerSampleAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* UIViewControllerSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIViewControllerSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* UIViewControllerSample_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIViewControllerSample_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* UIViewControllerSample-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "UIViewControllerSample-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				046AED6312FD2DE0005952C5 /* RootViewController.h */,
+				046AED6412FD2DE0005952C5 /* SampleForBarButtonWithTitle.h */,
+				046AED6512FD2DE0005952C5 /* SampleForBarButtonWithTitle.m */,
+				046AED6612FD2DE0005952C5 /* SampleForBarColor.h */,
+				046AED6712FD2DE0005952C5 /* SampleForCustomBarButton.h */,
+				046AED6812FD2DE0005952C5 /* SampleForFullScreenWithTransparent.h */,
+				046AED6912FD2DE0005952C5 /* SampleForNavigation.h */,
+				046AED6A12FD2DE0005952C5 /* SampleForObserving.h */,
+				046AED6B12FD2DE0005952C5 /* SampleForObserving.m */,
+				046AED6C12FD2DE0005952C5 /* SampleForRotate.h */,
+				046AED6D12FD2DE0005952C5 /* SampleForRotate.m */,
+				046AED6E12FD2DE0005952C5 /* SampleForRotateAndAutoresizing.h */,
+				046AED6F12FD2DE0005952C5 /* SampleForRotateAndAutoresizing.m */,
+				046AED7012FD2DE0005952C5 /* SampleForRotateAndFullScreen.h */,
+				046AED7112FD2DE0005952C5 /* SampleForRotateManual.h */,
+				046AED7212FD2DE0005952C5 /* SampleForRotateManual.m */,
+				046AED7312FD2DE0005952C5 /* SampleForStatusBarColor.h */,
+				046AED7412FD2DE0005952C5 /* SampleForTabBar.h */,
+				046AED7512FD2DE0005952C5 /* SampleForTitleView.h */,
+				046AED7612FD2DE0005952C5 /* SampleForToolbarSystemItem.h */,
+				046AED7712FD2DE0005952C5 /* SampleForToolbarWithSpace.h */,
+				046AED7812FD2DE0005952C5 /* SampleForModal.m */,
+				046AED7912FD2DE0005952C5 /* SampleForBarColor.m */,
+				046AED7A12FD2DE0005952C5 /* SampleForTitleView.m */,
+				046AED7B12FD2DE0005952C5 /* SampleForCustomBarButton.m */,
+				046AED7C12FD2DE0005952C5 /* SampleForStatusBarColor.m */,
+				046AED7D12FD2DE0005952C5 /* SampleForToolbarSystemItem.m */,
+				046AED7E12FD2DE0005952C5 /* SampleForNavigation.m */,
+				046AED7F12FD2DE0005952C5 /* SampleForFullScreen.h */,
+				046AED8012FD2DE0005952C5 /* SampleForToolbar.h */,
+				046AED8112FD2DE0005952C5 /* SampleForToolbar.m */,
+				046AED8212FD2DE0005952C5 /* RootViewController.m */,
+				046AED8312FD2DE0005952C5 /* SampleForTabBar.m */,
+				046AED8412FD2DE0005952C5 /* SampleForModal.h */,
+				046AED8512FD2DE0005952C5 /* SampleForToolbarWithSpace.m */,
+				046AED8612FD2DE0005952C5 /* SampleForFullScreenWithTransparent.m */,
+				046AED8712FD2DE0005952C5 /* SampleForRotateAndFullScreen.m */,
+				046AED8812FD2DE0005952C5 /* SampleForFullScreen.m */,
+				1D3623240D0F684500981E51 /* UIViewControllerSampleAppDelegate.h */,
+				1D3623250D0F684500981E51 /* UIViewControllerSampleAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* UIViewControllerSample.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* UIViewControllerSample_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				046AED9C12FD2DF6005952C5 /* dog.jpg */,
+				046AED9D12FD2DF6005952C5 /* face.jpg */,
+				046AED9E12FD2DF6005952C5 /* smile.png */,
+				046AED9F12FD2DF6005952C5 /* town.jpg */,
+				8D1107310486CEB800E47090 /* UIViewControllerSample-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* UIViewControllerSample */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "UIViewControllerSample" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = UIViewControllerSample;
+			productName = UIViewControllerSample;
+			productReference = 1D6058910D05DD3D006BFB54 /* UIViewControllerSample.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "UIViewControllerSample" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* UIViewControllerSample */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				046AEDA012FD2DF6005952C5 /* dog.jpg in Resources */,
+				046AEDA112FD2DF6005952C5 /* face.jpg in Resources */,
+				046AEDA212FD2DF6005952C5 /* smile.png in Resources */,
+				046AEDA312FD2DF6005952C5 /* town.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* UIViewControllerSampleAppDelegate.m in Sources */,
+				046AED8912FD2DE0005952C5 /* SampleForBarButtonWithTitle.m in Sources */,
+				046AED8A12FD2DE0005952C5 /* SampleForObserving.m in Sources */,
+				046AED8B12FD2DE0005952C5 /* SampleForRotate.m in Sources */,
+				046AED8C12FD2DE0005952C5 /* SampleForRotateAndAutoresizing.m in Sources */,
+				046AED8D12FD2DE0005952C5 /* SampleForRotateManual.m in Sources */,
+				046AED8E12FD2DE0005952C5 /* SampleForModal.m in Sources */,
+				046AED8F12FD2DE0005952C5 /* SampleForBarColor.m in Sources */,
+				046AED9012FD2DE0005952C5 /* SampleForTitleView.m in Sources */,
+				046AED9112FD2DE0005952C5 /* SampleForCustomBarButton.m in Sources */,
+				046AED9212FD2DE0005952C5 /* SampleForStatusBarColor.m in Sources */,
+				046AED9312FD2DE0005952C5 /* SampleForToolbarSystemItem.m in Sources */,
+				046AED9412FD2DE0005952C5 /* SampleForNavigation.m in Sources */,
+				046AED9512FD2DE0005952C5 /* SampleForToolbar.m in Sources */,
+				046AED9612FD2DE0005952C5 /* RootViewController.m in Sources */,
+				046AED9712FD2DE0005952C5 /* SampleForTabBar.m in Sources */,
+				046AED9812FD2DE0005952C5 /* SampleForToolbarWithSpace.m in Sources */,
+				046AED9912FD2DE0005952C5 /* SampleForFullScreenWithTransparent.m in Sources */,
+				046AED9A12FD2DE0005952C5 /* SampleForRotateAndFullScreen.m in Sources */,
+				046AED9B12FD2DE0005952C5 /* SampleForFullScreen.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = UIViewControllerSample_Prefix.pch;
+				INFOPLIST_FILE = "UIViewControllerSample-Info.plist";
+				PRODUCT_NAME = UIViewControllerSample;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = UIViewControllerSample_Prefix.pch;
+				INFOPLIST_FILE = "UIViewControllerSample-Info.plist";
+				PRODUCT_NAME = UIViewControllerSample;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "UIViewControllerSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "UIViewControllerSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

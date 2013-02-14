@@ -1,0 +1,224 @@
+// !$*UTF8*$!
+{
+	046AEEC712FD39FF005952C5 /* UIColorSample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = UIColorSample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	046AEECB12FD3A11005952C5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	046AEECC12FD3A11005952C5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	046AEED912FD3A29005952C5 /* SampleForPresetColor.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = SampleForPresetColor.h;
+		path = "/Users/Mac/Desktop/UIKit iPhone/Chapter5/UIColorSample/Classes/SampleForPresetColor.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {844, 769}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 155}";
+		};
+	};
+	046AEEDA12FD3A29005952C5 /* SampleForPresetColor.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SampleForPresetColor.m;
+		path = "/Users/Mac/Desktop/UIKit iPhone/Chapter5/UIColorSample/Classes/SampleForPresetColor.m";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {900, 1677}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2094}";
+		};
+	};
+	046AEEE812FD3AB5005952C5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* UIColorSample-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/Mac/Desktop/UIKit iPad/Chapter5/UIColorSample/UIColorSample-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	046AEEE912FD3AB5005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 046AEEDA12FD3A29005952C5 /* SampleForPresetColor.m */;
+		name = "SampleForPresetColor.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2094;
+		vrLoc = 0;
+	};
+	046AEEEA12FD3AB5005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 046AEED912FD3A29005952C5 /* SampleForPresetColor.h */;
+		name = "SampleForPresetColor.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 155;
+		vrLoc = 0;
+	};
+	046AEEEB12FD3AB5005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 18";
+		rLen = 0;
+		rLoc = 373;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 0;
+	};
+	046AEEEC12FD3AB5005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* UIColorSampleAppDelegate.h */;
+		name = "UIColorSampleAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 291;
+		rType = 0;
+		vrLen = 299;
+		vrLoc = 0;
+	};
+	046AF1CF12FD5759005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* UIColorSampleAppDelegate.m */;
+		name = "UIColorSampleAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 542;
+		rType = 0;
+		vrLen = 1778;
+		vrLoc = 136;
+	};
+	046AF1FF12FD57BD005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* UIColorSampleAppDelegate.m */;
+		name = "UIColorSampleAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 542;
+		rType = 0;
+		vrLen = 1778;
+		vrLoc = 136;
+	};
+	1D3623240D0F684500981E51 /* UIColorSampleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {844, 769}}";
+			sepNavSelRange = "{291, 0}";
+			sepNavVisRange = "{0, 299}";
+			sepNavWindowFrame = "{{176, 800}, {850, 466}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* UIColorSampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 912}}";
+			sepNavSelRange = "{542, 0}";
+			sepNavVisRange = "{136, 1778}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* UIColorSample */ = {
+		activeExec = 0;
+		executables = (
+			046AEEC712FD39FF005952C5 /* UIColorSample */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 046AEEC712FD39FF005952C5 /* UIColorSample */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* UIColorSample */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* UIColorSample */,
+		);
+		codeSenseManager = 046AEECC12FD3A11005952C5 /* Code sense */;
+		executables = (
+			046AEEC712FD39FF005952C5 /* UIColorSample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					666,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318592883;
+			PBXWorkspaceStateSaveDate = 318592883;
+		};
+		perUserProjectItems = {
+			046AEEE812FD3AB5005952C5 /* PlistBookmark */ = 046AEEE812FD3AB5005952C5 /* PlistBookmark */;
+			046AEEE912FD3AB5005952C5 /* PBXTextBookmark */ = 046AEEE912FD3AB5005952C5 /* PBXTextBookmark */;
+			046AEEEA12FD3AB5005952C5 /* PBXTextBookmark */ = 046AEEEA12FD3AB5005952C5 /* PBXTextBookmark */;
+			046AEEEB12FD3AB5005952C5 /* PBXTextBookmark */ = 046AEEEB12FD3AB5005952C5 /* PBXTextBookmark */;
+			046AEEEC12FD3AB5005952C5 /* PBXTextBookmark */ = 046AEEEC12FD3AB5005952C5 /* PBXTextBookmark */;
+			046AF1CF12FD5759005952C5 /* PBXTextBookmark */ = 046AF1CF12FD5759005952C5 /* PBXTextBookmark */;
+			046AF1FF12FD57BD005952C5 /* PBXTextBookmark */ = 046AF1FF12FD57BD005952C5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 046AEECB12FD3A11005952C5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {844, 769}}";
+			sepNavSelRange = "{373, 0}";
+			sepNavVisRange = "{0, 373}";
+		};
+	};
+}

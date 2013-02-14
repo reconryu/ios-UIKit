@@ -1,0 +1,269 @@
+// !$*UTF8*$!
+{
+	046AEE2212FD3763005952C5 /* GraphicsSample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GraphicsSample;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	046AEE2612FD3772005952C5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	046AEE2712FD3772005952C5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	046AEE4312FD37A1005952C5 /* SampleForSystemFont.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SampleForSystemFont.m;
+		path = "/Users/Mac/Desktop/UIKit iPhone/Chapter5/GraphicsSample/Classes/SampleForSystemFont.m";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 1053}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 657}";
+		};
+	};
+	046AEE4A12FD37A1005952C5 /* SampleForTextAlignment.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = SampleForTextAlignment.h;
+		path = "/Users/Mac/Desktop/UIKit iPhone/Chapter5/GraphicsSample/Classes/SampleForTextAlignment.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {756, 457}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 313}";
+		};
+	};
+	046AEE4D12FD37A1005952C5 /* SampleForDrawingStringsInRect.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SampleForDrawingStringsInRect.m;
+		path = "/Users/Mac/Desktop/UIKit iPhone/Chapter5/GraphicsSample/Classes/SampleForDrawingStringsInRect.m";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {866, 470}}";
+			sepNavSelRange = "{251, 95}";
+			sepNavVisRange = "{0, 912}";
+		};
+	};
+	046AEE4F12FD37A1005952C5 /* SampleForLineBreak.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SampleForLineBreak.m;
+		path = "/Users/Mac/Desktop/UIKit iPhone/Chapter5/GraphicsSample/Classes/SampleForLineBreak.m";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {756, 1028}}";
+			sepNavSelRange = "{67, 0}";
+			sepNavVisRange = "{0, 974}";
+		};
+	};
+	046AEE8912FD39C6005952C5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* GraphicsSample-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UISupportedInterfaceOrientations,
+		);
+		name = "/Users/Mac/Desktop/UIKit iPad/Chapter5/GraphicsSample/GraphicsSample-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	046AEE8A12FD39C6005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 17";
+		rLen = 0;
+		rLoc = 374;
+		rType = 0;
+		vrLen = 375;
+		vrLoc = 0;
+	};
+	046AEE8B12FD39C6005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GraphicsSampleAppDelegate.h */;
+		name = "GraphicsSampleAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 295;
+		rType = 0;
+		vrLen = 303;
+		vrLoc = 0;
+	};
+	046AEE8D12FD39C6005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 046AEE4D12FD37A1005952C5 /* SampleForDrawingStringsInRect.m */;
+		name = "SampleForDrawingStringsInRect.m: 14";
+		rLen = 95;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 0;
+	};
+	046AEE8E12FD39C6005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 046AEE4312FD37A1005952C5 /* SampleForSystemFont.m */;
+		name = "SampleForSystemFont.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 0;
+	};
+	046AEE8F12FD39C6005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 046AEE4A12FD37A1005952C5 /* SampleForTextAlignment.h */;
+		name = "SampleForTextAlignment.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 313;
+		vrLoc = 0;
+	};
+	046AEEB212FD39D7005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 046AEE4F12FD37A1005952C5 /* SampleForLineBreak.m */;
+		name = "SampleForLineBreak.m: 4";
+		rLen = 0;
+		rLoc = 67;
+		rType = 0;
+		vrLen = 974;
+		vrLoc = 0;
+	};
+	046AEEB412FD39D7005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GraphicsSampleAppDelegate.m */;
+		name = "GraphicsSampleAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 1352;
+		vrLoc = 0;
+	};
+	046AF26412FD5842005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GraphicsSampleAppDelegate.m */;
+		name = "GraphicsSampleAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 1202;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* GraphicsSampleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {756, 480}}";
+			sepNavSelRange = "{295, 0}";
+			sepNavVisRange = "{0, 303}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GraphicsSampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 847}}";
+			sepNavSelRange = "{210, 0}";
+			sepNavVisRange = "{0, 1202}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GraphicsSample */ = {
+		activeExec = 0;
+		executables = (
+			046AEE2212FD3763005952C5 /* GraphicsSample */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 046AEE2212FD3763005952C5 /* GraphicsSample */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GraphicsSample */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GraphicsSample */,
+		);
+		codeSenseManager = 046AEE2712FD3772005952C5 /* Code sense */;
+		executables = (
+			046AEE2212FD3763005952C5 /* GraphicsSample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					578,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318592993;
+			PBXWorkspaceStateSaveDate = 318592993;
+		};
+		perUserProjectItems = {
+			046AEE8912FD39C6005952C5 /* PlistBookmark */ = 046AEE8912FD39C6005952C5 /* PlistBookmark */;
+			046AEE8A12FD39C6005952C5 /* PBXTextBookmark */ = 046AEE8A12FD39C6005952C5 /* PBXTextBookmark */;
+			046AEE8B12FD39C6005952C5 /* PBXTextBookmark */ = 046AEE8B12FD39C6005952C5 /* PBXTextBookmark */;
+			046AEE8D12FD39C6005952C5 /* PBXTextBookmark */ = 046AEE8D12FD39C6005952C5 /* PBXTextBookmark */;
+			046AEE8E12FD39C6005952C5 /* PBXTextBookmark */ = 046AEE8E12FD39C6005952C5 /* PBXTextBookmark */;
+			046AEE8F12FD39C6005952C5 /* PBXTextBookmark */ = 046AEE8F12FD39C6005952C5 /* PBXTextBookmark */;
+			046AEEB212FD39D7005952C5 /* PBXTextBookmark */ = 046AEEB212FD39D7005952C5 /* PBXTextBookmark */;
+			046AEEB412FD39D7005952C5 /* PBXTextBookmark */ = 046AEEB412FD39D7005952C5 /* PBXTextBookmark */;
+			046AF26412FD5842005952C5 /* PBXTextBookmark */ = 046AF26412FD5842005952C5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 046AEE2612FD3772005952C5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {756, 480}}";
+			sepNavSelRange = "{374, 0}";
+			sepNavVisRange = "{0, 375}";
+		};
+	};
+}

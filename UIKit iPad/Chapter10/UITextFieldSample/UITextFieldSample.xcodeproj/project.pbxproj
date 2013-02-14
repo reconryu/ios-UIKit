@@ -1,0 +1,316 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		046AFA2512FE8465005952C5 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AFA1412FE8465005952C5 /* RootViewController.m */; };
+		046AFA2612FE8465005952C5 /* SampleForAddView.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AFA1612FE8465005952C5 /* SampleForAddView.m */; };
+		046AFA2712FE8465005952C5 /* SampleForAdjustFontSize.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AFA1812FE8465005952C5 /* SampleForAdjustFontSize.m */; };
+		046AFA2812FE8465005952C5 /* SampleForBackground.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AFA1A12FE8465005952C5 /* SampleForBackground.m */; };
+		046AFA2912FE8465005952C5 /* SampleForChangeColorAndFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AFA1C12FE8465005952C5 /* SampleForChangeColorAndFont.m */; };
+		046AFA2A12FE8465005952C5 /* SampleForClearButtonMode.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AFA1E12FE8465005952C5 /* SampleForClearButtonMode.m */; };
+		046AFA2B12FE8465005952C5 /* SampleForObserving.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AFA2012FE8465005952C5 /* SampleForObserving.m */; };
+		046AFA2C12FE8465005952C5 /* SampleForPlaceholder.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AFA2212FE8465005952C5 /* SampleForPlaceholder.m */; };
+		046AFA2D12FE8465005952C5 /* SampleForSimple.m in Sources */ = {isa = PBXBuildFile; fileRef = 046AFA2412FE8465005952C5 /* SampleForSimple.m */; };
+		046AFA3212FE8474005952C5 /* leftDog.png in Resources */ = {isa = PBXBuildFile; fileRef = 046AFA2E12FE8474005952C5 /* leftDog.png */; };
+		046AFA3312FE8474005952C5 /* paper.png in Resources */ = {isa = PBXBuildFile; fileRef = 046AFA2F12FE8474005952C5 /* paper.png */; };
+		046AFA3412FE8474005952C5 /* paperGray.png in Resources */ = {isa = PBXBuildFile; fileRef = 046AFA3012FE8474005952C5 /* paperGray.png */; };
+		046AFA3512FE8474005952C5 /* rightDog.png in Resources */ = {isa = PBXBuildFile; fileRef = 046AFA3112FE8474005952C5 /* rightDog.png */; };
+		1D3623260D0F684500981E51 /* UITextFieldSampleAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* UITextFieldSampleAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		046AFA1312FE8465005952C5 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		046AFA1412FE8465005952C5 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		046AFA1512FE8465005952C5 /* SampleForAddView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForAddView.h; sourceTree = "<group>"; };
+		046AFA1612FE8465005952C5 /* SampleForAddView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForAddView.m; sourceTree = "<group>"; };
+		046AFA1712FE8465005952C5 /* SampleForAdjustFontSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForAdjustFontSize.h; sourceTree = "<group>"; };
+		046AFA1812FE8465005952C5 /* SampleForAdjustFontSize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForAdjustFontSize.m; sourceTree = "<group>"; };
+		046AFA1912FE8465005952C5 /* SampleForBackground.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForBackground.h; sourceTree = "<group>"; };
+		046AFA1A12FE8465005952C5 /* SampleForBackground.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForBackground.m; sourceTree = "<group>"; };
+		046AFA1B12FE8465005952C5 /* SampleForChangeColorAndFont.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForChangeColorAndFont.h; sourceTree = "<group>"; };
+		046AFA1C12FE8465005952C5 /* SampleForChangeColorAndFont.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForChangeColorAndFont.m; sourceTree = "<group>"; };
+		046AFA1D12FE8465005952C5 /* SampleForClearButtonMode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForClearButtonMode.h; sourceTree = "<group>"; };
+		046AFA1E12FE8465005952C5 /* SampleForClearButtonMode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForClearButtonMode.m; sourceTree = "<group>"; };
+		046AFA1F12FE8465005952C5 /* SampleForObserving.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForObserving.h; sourceTree = "<group>"; };
+		046AFA2012FE8465005952C5 /* SampleForObserving.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForObserving.m; sourceTree = "<group>"; };
+		046AFA2112FE8465005952C5 /* SampleForPlaceholder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForPlaceholder.h; sourceTree = "<group>"; };
+		046AFA2212FE8465005952C5 /* SampleForPlaceholder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForPlaceholder.m; sourceTree = "<group>"; };
+		046AFA2312FE8465005952C5 /* SampleForSimple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleForSimple.h; sourceTree = "<group>"; };
+		046AFA2412FE8465005952C5 /* SampleForSimple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleForSimple.m; sourceTree = "<group>"; };
+		046AFA2E12FE8474005952C5 /* leftDog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = leftDog.png; path = Images/leftDog.png; sourceTree = "<group>"; };
+		046AFA2F12FE8474005952C5 /* paper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = paper.png; path = Images/paper.png; sourceTree = "<group>"; };
+		046AFA3012FE8474005952C5 /* paperGray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = paperGray.png; path = Images/paperGray.png; sourceTree = "<group>"; };
+		046AFA3112FE8474005952C5 /* rightDog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rightDog.png; path = Images/rightDog.png; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* UITextFieldSampleAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UITextFieldSampleAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* UITextFieldSampleAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UITextFieldSampleAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* UITextFieldSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UITextFieldSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* UITextFieldSample_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UITextFieldSample_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* UITextFieldSample-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "UITextFieldSample-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				046AFA1312FE8465005952C5 /* RootViewController.h */,
+				046AFA1412FE8465005952C5 /* RootViewController.m */,
+				046AFA1512FE8465005952C5 /* SampleForAddView.h */,
+				046AFA1612FE8465005952C5 /* SampleForAddView.m */,
+				046AFA1712FE8465005952C5 /* SampleForAdjustFontSize.h */,
+				046AFA1812FE8465005952C5 /* SampleForAdjustFontSize.m */,
+				046AFA1912FE8465005952C5 /* SampleForBackground.h */,
+				046AFA1A12FE8465005952C5 /* SampleForBackground.m */,
+				046AFA1B12FE8465005952C5 /* SampleForChangeColorAndFont.h */,
+				046AFA1C12FE8465005952C5 /* SampleForChangeColorAndFont.m */,
+				046AFA1D12FE8465005952C5 /* SampleForClearButtonMode.h */,
+				046AFA1E12FE8465005952C5 /* SampleForClearButtonMode.m */,
+				046AFA1F12FE8465005952C5 /* SampleForObserving.h */,
+				046AFA2012FE8465005952C5 /* SampleForObserving.m */,
+				046AFA2112FE8465005952C5 /* SampleForPlaceholder.h */,
+				046AFA2212FE8465005952C5 /* SampleForPlaceholder.m */,
+				046AFA2312FE8465005952C5 /* SampleForSimple.h */,
+				046AFA2412FE8465005952C5 /* SampleForSimple.m */,
+				1D3623240D0F684500981E51 /* UITextFieldSampleAppDelegate.h */,
+				1D3623250D0F684500981E51 /* UITextFieldSampleAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* UITextFieldSample.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* UITextFieldSample_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				046AFA2E12FE8474005952C5 /* leftDog.png */,
+				046AFA2F12FE8474005952C5 /* paper.png */,
+				046AFA3012FE8474005952C5 /* paperGray.png */,
+				046AFA3112FE8474005952C5 /* rightDog.png */,
+				8D1107310486CEB800E47090 /* UITextFieldSample-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* UITextFieldSample */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "UITextFieldSample" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = UITextFieldSample;
+			productName = UITextFieldSample;
+			productReference = 1D6058910D05DD3D006BFB54 /* UITextFieldSample.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "UITextFieldSample" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* UITextFieldSample */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				046AFA3212FE8474005952C5 /* leftDog.png in Resources */,
+				046AFA3312FE8474005952C5 /* paper.png in Resources */,
+				046AFA3412FE8474005952C5 /* paperGray.png in Resources */,
+				046AFA3512FE8474005952C5 /* rightDog.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* UITextFieldSampleAppDelegate.m in Sources */,
+				046AFA2512FE8465005952C5 /* RootViewController.m in Sources */,
+				046AFA2612FE8465005952C5 /* SampleForAddView.m in Sources */,
+				046AFA2712FE8465005952C5 /* SampleForAdjustFontSize.m in Sources */,
+				046AFA2812FE8465005952C5 /* SampleForBackground.m in Sources */,
+				046AFA2912FE8465005952C5 /* SampleForChangeColorAndFont.m in Sources */,
+				046AFA2A12FE8465005952C5 /* SampleForClearButtonMode.m in Sources */,
+				046AFA2B12FE8465005952C5 /* SampleForObserving.m in Sources */,
+				046AFA2C12FE8465005952C5 /* SampleForPlaceholder.m in Sources */,
+				046AFA2D12FE8465005952C5 /* SampleForSimple.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = UITextFieldSample_Prefix.pch;
+				INFOPLIST_FILE = "UITextFieldSample-Info.plist";
+				PRODUCT_NAME = UITextFieldSample;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = UITextFieldSample_Prefix.pch;
+				INFOPLIST_FILE = "UITextFieldSample-Info.plist";
+				PRODUCT_NAME = UITextFieldSample;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "UITextFieldSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "UITextFieldSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

@@ -1,0 +1,231 @@
+// !$*UTF8*$!
+{
+	046AFBAF12FE9DF8005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B6087E610830FA300228EF3 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 190;
+		vrLoc = 0;
+	};
+	046AFBB012FE9DF8005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 14";
+		rLen = 138;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 418;
+		vrLoc = 0;
+	};
+	046AFBB112FE9DF8005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* UIVideoEditorControllerSampleAppDelegate.h */;
+		name = "UIVideoEditorControllerSampleAppDelegate.h: 5";
+		rLen = 0;
+		rLoc = 92;
+		rType = 0;
+		vrLen = 270;
+		vrLoc = 0;
+	};
+	046AFDE912FEA8DA005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* UIVideoEditorControllerSampleAppDelegate.m */;
+		name = "UIVideoEditorControllerSampleAppDelegate.m: 4";
+		rLen = 0;
+		rLoc = 80;
+		rType = 0;
+		vrLen = 750;
+		vrLoc = 0;
+	};
+	0495E88112D0C06B00B2565C /* UIVideoEditorControllerSample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = UIVideoEditorControllerSample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0495E89912D0C07C00B2565C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0495E89A12D0C07C00B2565C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	04A40A9D1368790000956F82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* UIVideoEditorControllerSampleAppDelegate.m */;
+		name = "UIVideoEditorControllerSampleAppDelegate.m: 4";
+		rLen = 0;
+		rLoc = 80;
+		rType = 0;
+		vrLen = 750;
+		vrLoc = 0;
+	};
+	04E88F3412F5C48B004F7A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B6087E710830FA300228EF3 /* RootViewController.m */;
+		name = "RootViewController.m: 13";
+		rLen = 0;
+		rLoc = 196;
+		rType = 0;
+		vrLen = 1310;
+		vrLoc = 0;
+	};
+	04E88F3512F5C48B004F7A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B6087E810830FA300228EF3 /* SampleForVideoEditor.h */;
+		name = "SampleForVideoEditor.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 259;
+		vrLoc = 0;
+	};
+	04E88F3612F5C48B004F7A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B6087E910830FA300228EF3 /* SampleForVideoEditor.m */;
+		name = "SampleForVideoEditor.m: 13";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 1818;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* UIVideoEditorControllerSampleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1064, 672}}";
+			sepNavSelRange = "{92, 0}";
+			sepNavVisRange = "{0, 270}";
+		};
+	};
+	1D3623250D0F684500981E51 /* UIVideoEditorControllerSampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1064, 657}}";
+			sepNavSelRange = "{80, 0}";
+			sepNavVisRange = "{0, 750}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* UIVideoEditorControllerSample */ = {
+		activeExec = 0;
+		executables = (
+			0495E88112D0C06B00B2565C /* UIVideoEditorControllerSample */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0495E88112D0C06B00B2565C /* UIVideoEditorControllerSample */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* UIVideoEditorControllerSample */;
+		codeSenseManager = 0495E89A12D0C07C00B2565C /* Code sense */;
+		executables = (
+			0495E88112D0C06B00B2565C /* UIVideoEditorControllerSample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					886,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325610416;
+			PBXWorkspaceStateSaveDate = 325610416;
+		};
+		perUserProjectItems = {
+			046AFBAF12FE9DF8005952C5 /* PBXTextBookmark */ = 046AFBAF12FE9DF8005952C5 /* PBXTextBookmark */;
+			046AFBB012FE9DF8005952C5 /* PBXTextBookmark */ = 046AFBB012FE9DF8005952C5 /* PBXTextBookmark */;
+			046AFBB112FE9DF8005952C5 /* PBXTextBookmark */ = 046AFBB112FE9DF8005952C5 /* PBXTextBookmark */;
+			046AFDE912FEA8DA005952C5 /* PBXTextBookmark */ = 046AFDE912FEA8DA005952C5 /* PBXTextBookmark */;
+			04A40A9D1368790000956F82 /* PBXTextBookmark */ = 04A40A9D1368790000956F82 /* PBXTextBookmark */;
+			04E88F3412F5C48B004F7A54 /* PBXTextBookmark */ = 04E88F3412F5C48B004F7A54 /* PBXTextBookmark */;
+			04E88F3512F5C48B004F7A54 /* PBXTextBookmark */ = 04E88F3512F5C48B004F7A54 /* PBXTextBookmark */;
+			04E88F3612F5C48B004F7A54 /* PBXTextBookmark */ = 04E88F3612F5C48B004F7A54 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0495E89912D0C07C00B2565C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1064, 672}}";
+			sepNavSelRange = "{279, 138}";
+			sepNavVisRange = "{0, 418}";
+		};
+	};
+	5B6087E610830FA300228EF3 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1064, 672}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 190}";
+		};
+	};
+	5B6087E710830FA300228EF3 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1064, 1093}}";
+			sepNavSelRange = "{196, 0}";
+			sepNavVisRange = "{0, 1310}";
+		};
+	};
+	5B6087E810830FA300228EF3 /* SampleForVideoEditor.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1064, 682}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 259}";
+		};
+	};
+	5B6087E910830FA300228EF3 /* SampleForVideoEditor.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1064, 1058}}";
+			sepNavSelRange = "{191, 0}";
+			sepNavVisRange = "{0, 1818}";
+		};
+	};
+}

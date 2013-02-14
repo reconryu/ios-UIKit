@@ -1,0 +1,439 @@
+// !$*UTF8*$!
+{
+	046AF68C12FDA239005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B1DB60D1076D95800273E6F /* SampleForCountDownTimer.h */;
+		name = "SampleForCountDownTimer.h: 1";
+		rLen = 0;
+		rLoc = 2;
+		rType = 0;
+		vrLen = 223;
+		vrLoc = 0;
+	};
+	046AF68D12FDA239005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 14";
+		rLen = 32;
+		rLoc = 319;
+		rType = 0;
+		vrLen = 395;
+		vrLoc = 0;
+	};
+	046AF68E12FDA239005952C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* UIDatePickerSampleAppDelegate.h */;
+		name = "UIDatePickerSampleAppDelegate.h: 11";
+		rLen = 61;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 248;
+		vrLoc = 0;
+	};
+	048A96A71300025800EB0CF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* UIDatePickerSampleAppDelegate.m */;
+		name = "UIDatePickerSampleAppDelegate.m: 18";
+		rLen = 0;
+		rLoc = 350;
+		rType = 0;
+		vrLen = 717;
+		vrLoc = 0;
+	};
+	04A40AF31368997200956F82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* UIDatePickerSampleAppDelegate.m */;
+		name = "UIDatePickerSampleAppDelegate.m: 18";
+		rLen = 0;
+		rLoc = 350;
+		rType = 0;
+		vrLen = 717;
+		vrLoc = 0;
+	};
+	04E88C8F12F5C04F004F7A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B1DB60E1076D95800273E6F /* SampleForCountDownTimer.m */;
+		name = "SampleForCountDownTimer.m: 11";
+		rLen = 0;
+		rLoc = 172;
+		rType = 0;
+		vrLen = 1352;
+		vrLoc = 0;
+	};
+	04E88C9012F5C04F004F7A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B1DB6061076D89900273E6F /* SampleForSetDate.h */;
+		name = "SampleForSetDate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 190;
+		vrLoc = 0;
+	};
+	04E88C9112F5C04F004F7A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B1DB6071076D89900273E6F /* SampleForSetDate.m */;
+		name = "SampleForSetDate.m: 24";
+		rLen = 0;
+		rLoc = 504;
+		rType = 0;
+		vrLen = 885;
+		vrLoc = 0;
+	};
+	04E88C9212F5C04F004F7A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B1DB5F91076D6B000273E6F /* SampleForMinuteInterval.h */;
+		name = "SampleForMinuteInterval.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 161;
+		vrLoc = 0;
+	};
+	04E88C9312F5C04F004F7A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B1DB5FA1076D6B000273E6F /* SampleForMinuteInterval.m */;
+		name = "SampleForMinuteInterval.m: 17";
+		rLen = 0;
+		rLoc = 355;
+		rType = 0;
+		vrLen = 472;
+		vrLoc = 0;
+	};
+	04E88C9412F5C04F004F7A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B1DB5B31076C9A500273E6F /* SampleForDatePickerMode.h */;
+		name = "SampleForDatePickerMode.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 204;
+		vrLoc = 0;
+	};
+	04E88C9512F5C04F004F7A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B1DB5B41076C9A500273E6F /* SampleForDatePickerMode.m */;
+		name = "SampleForDatePickerMode.m: 17";
+		rLen = 0;
+		rLoc = 256;
+		rType = 0;
+		vrLen = 921;
+		vrLoc = 0;
+	};
+	04E88C9612F5C04F004F7A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B1DB59B1076BE8E00273E6F /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 190;
+		vrLoc = 0;
+	};
+	04E88C9712F5C04F004F7A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B1DB59C1076BE8E00273E6F /* RootViewController.m */;
+		name = "RootViewController.m: 58";
+		rLen = 0;
+		rLoc = 1595;
+		rType = 0;
+		vrLen = 1541;
+		vrLoc = 0;
+	};
+	04E88C9812F5C04F004F7A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B1DB59D1076BE8E00273E6F /* SampleForDatePicker.h */;
+		name = "SampleForDatePicker.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 196;
+		vrLoc = 0;
+	};
+	04E88C9912F5C04F004F7A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B1DB59E1076BE8E00273E6F /* SampleForDatePicker.m */;
+		name = "SampleForDatePicker.m: 14";
+		rLen = 0;
+		rLoc = 206;
+		rType = 0;
+		vrLen = 1429;
+		vrLoc = 0;
+	};
+	04FB0FA912CE122900691FF7 /* UIDatePickerSample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = UIDatePickerSample;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	04FB0FC012CE123600691FF7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	04FB0FC112CE123600691FF7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1D3623240D0F684500981E51 /* UIDatePickerSampleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 720}}";
+			sepNavSelRange = "{186, 61}";
+			sepNavVisRange = "{0, 248}";
+		};
+	};
+	1D3623250D0F684500981E51 /* UIDatePickerSampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 707}}";
+			sepNavSelRange = "{350, 0}";
+			sepNavVisRange = "{0, 717}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* UIDatePickerSample */ = {
+		activeExec = 0;
+		executables = (
+			04FB0FA912CE122900691FF7 /* UIDatePickerSample */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 04FB0FA912CE122900691FF7 /* UIDatePickerSample */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* UIDatePickerSample */;
+		codeSenseManager = 04FB0FC112CE123600691FF7 /* Code sense */;
+		executables = (
+			04FB0FA912CE122900691FF7 /* UIDatePickerSample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					931,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1043,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					1057,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					983,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1003,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325612314;
+			PBXWorkspaceStateSaveDate = 325612314;
+		};
+		perUserProjectItems = {
+			046AF68C12FDA239005952C5 /* PBXTextBookmark */ = 046AF68C12FDA239005952C5 /* PBXTextBookmark */;
+			046AF68D12FDA239005952C5 /* PBXTextBookmark */ = 046AF68D12FDA239005952C5 /* PBXTextBookmark */;
+			046AF68E12FDA239005952C5 /* PBXTextBookmark */ = 046AF68E12FDA239005952C5 /* PBXTextBookmark */;
+			048A96A71300025800EB0CF1 /* PBXTextBookmark */ = 048A96A71300025800EB0CF1 /* PBXTextBookmark */;
+			04A40AF31368997200956F82 /* PBXTextBookmark */ = 04A40AF31368997200956F82 /* PBXTextBookmark */;
+			04E88C8F12F5C04F004F7A54 /* PBXTextBookmark */ = 04E88C8F12F5C04F004F7A54 /* PBXTextBookmark */;
+			04E88C9012F5C04F004F7A54 /* PBXTextBookmark */ = 04E88C9012F5C04F004F7A54 /* PBXTextBookmark */;
+			04E88C9112F5C04F004F7A54 /* PBXTextBookmark */ = 04E88C9112F5C04F004F7A54 /* PBXTextBookmark */;
+			04E88C9212F5C04F004F7A54 /* PBXTextBookmark */ = 04E88C9212F5C04F004F7A54 /* PBXTextBookmark */;
+			04E88C9312F5C04F004F7A54 /* PBXTextBookmark */ = 04E88C9312F5C04F004F7A54 /* PBXTextBookmark */;
+			04E88C9412F5C04F004F7A54 /* PBXTextBookmark */ = 04E88C9412F5C04F004F7A54 /* PBXTextBookmark */;
+			04E88C9512F5C04F004F7A54 /* PBXTextBookmark */ = 04E88C9512F5C04F004F7A54 /* PBXTextBookmark */;
+			04E88C9612F5C04F004F7A54 /* PBXTextBookmark */ = 04E88C9612F5C04F004F7A54 /* PBXTextBookmark */;
+			04E88C9712F5C04F004F7A54 /* PBXTextBookmark */ = 04E88C9712F5C04F004F7A54 /* PBXTextBookmark */;
+			04E88C9812F5C04F004F7A54 /* PBXTextBookmark */ = 04E88C9812F5C04F004F7A54 /* PBXTextBookmark */;
+			04E88C9912F5C04F004F7A54 /* PBXTextBookmark */ = 04E88C9912F5C04F004F7A54 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 04FB0FC012CE123600691FF7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 720}}";
+			sepNavSelRange = "{319, 32}";
+			sepNavVisRange = "{0, 395}";
+		};
+	};
+	5B1DB59B1076BE8E00273E6F /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 724}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 190}";
+		};
+	};
+	5B1DB59C1076BE8E00273E6F /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 1145}}";
+			sepNavSelRange = "{1595, 0}";
+			sepNavVisRange = "{0, 1541}";
+		};
+	};
+	5B1DB59D1076BE8E00273E6F /* SampleForDatePicker.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 724}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 196}";
+		};
+	};
+	5B1DB59E1076BE8E00273E6F /* SampleForDatePicker.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 729}}";
+			sepNavSelRange = "{206, 0}";
+			sepNavVisRange = "{0, 1429}";
+		};
+	};
+	5B1DB5B31076C9A500273E6F /* SampleForDatePickerMode.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 724}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 204}";
+		};
+	};
+	5B1DB5B41076C9A500273E6F /* SampleForDatePickerMode.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 724}}";
+			sepNavSelRange = "{256, 0}";
+			sepNavVisRange = "{0, 921}";
+			sepNavWindowFrame = "{{61, 905}, {850, 466}}";
+		};
+	};
+	5B1DB5F91076D6B000273E6F /* SampleForMinuteInterval.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 724}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 161}";
+		};
+	};
+	5B1DB5FA1076D6B000273E6F /* SampleForMinuteInterval.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {791, 374}}";
+			sepNavSelRange = "{355, 0}";
+			sepNavVisRange = "{0, 476}";
+			sepNavWindowFrame = "{{38, 926}, {850, 466}}";
+		};
+	};
+	5B1DB6061076D89900273E6F /* SampleForSetDate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 724}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 190}";
+		};
+	};
+	5B1DB6071076D89900273E6F /* SampleForSetDate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 724}}";
+			sepNavSelRange = "{504, 0}";
+			sepNavVisRange = "{0, 885}";
+		};
+	};
+	5B1DB60D1076D95800273E6F /* SampleForCountDownTimer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 720}}";
+			sepNavSelRange = "{2, 0}";
+			sepNavVisRange = "{0, 223}";
+		};
+	};
+	5B1DB60E1076D95800273E6F /* SampleForCountDownTimer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 724}}";
+			sepNavSelRange = "{172, 0}";
+			sepNavVisRange = "{0, 1352}";
+		};
+	};
+}
